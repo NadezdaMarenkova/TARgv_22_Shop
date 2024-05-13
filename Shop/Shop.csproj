@@ -20,4 +20,10 @@
     <PackageReference Include="Nancy" Version="2.0.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Shop.ApplicationServicess\Shop.ApplicationServices.csproj" />
+    <ProjectReference Include="..\Shop.Core\Shop.Core.csproj" />
+    <ProjectReference Include="..\Shop.Data\Shop.Data.csproj" />
+  </ItemGroup>
+
 </Project>
