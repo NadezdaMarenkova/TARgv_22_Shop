@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shop.Data", "Shop.Data\Shop
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shop.SpaceshipTest", "Shop.SpaceshipTest\Shop.SpaceshipTest.csproj", "{E0F5FAC4-C6E2-4E36-93DD-340ECE5DD6E3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shop.RealEstateTest", "Shop.RealEstateTest\Shop.RealEstateTest.csproj", "{6D326547-8613-4785-A260-BD13AF2EB0A0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{E0F5FAC4-C6E2-4E36-93DD-340ECE5DD6E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E0F5FAC4-C6E2-4E36-93DD-340ECE5DD6E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E0F5FAC4-C6E2-4E36-93DD-340ECE5DD6E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D326547-8613-4785-A260-BD13AF2EB0A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D326547-8613-4785-A260-BD13AF2EB0A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D326547-8613-4785-A260-BD13AF2EB0A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D326547-8613-4785-A260-BD13AF2EB0A0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
