@@ -1,10 +1,10 @@
-﻿using AzureAppDbHosting.Models;
+﻿using Shop.Models;
 using Microsoft.EntityFrameworkCore;
 namespace Shop.Data
 {
     public class ApplicationDbContext:DbContext
     {
-        public ApplicationDbContext(DbContextOptions): base(options)
+        public ApplicationDbContext(DbContextOptions options) : base(options)
         {
 
         }
